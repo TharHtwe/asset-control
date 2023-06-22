@@ -1,0 +1,5 @@
+PROD_API_URL=http://asset-control.test.com
+DEV_API_URL=http://asset-control.test.com
+RECAPTCHA_TEST_KEY=6Lc9rqkUAAAAAIrkdxkYztGjkyV-ayIYQKmN_BmH
+RECAPTCHA_VERSION=3
+RECAPTCHA_SIZE=invisible
